@@ -1,4 +1,4 @@
-# CMPE273-Project
+# Twitter Hash Tag Monitor Using Amazon Lambda -Project
 Monitoring hash-tags in Twitter via AWS Lambda.
 
 Modules implemented: 
